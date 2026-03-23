@@ -1,4 +1,4 @@
-# Sensitive Wearable Shirt
+# Tiny Universe
 
 ## Overview
 A wearable electronics project that translates body movement and environmental changes into light and sound.
